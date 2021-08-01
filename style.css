@@ -531,8 +531,6 @@ footer .social a:hover {
     }    
 }
 
-@media (-webkit-min-device-pixel-ratio:1){
-
 @media (min-width: 1023px) {
 
     .container {
@@ -651,5 +649,4 @@ footer .social a:hover {
         justify-content: space-between;
     }
 
-}
 }
